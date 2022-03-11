@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SmallestInterger {
+public class SmallestInteger {
     public static void main(String[] args) {
         int[] A = {1, 3, 6, 4, 1, 2};
         System.out.println(solution(A));
