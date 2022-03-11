@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Q2 {
     public static void main(String[] args) {
-
-
         System.out.println("Please enter how many values are to be inputted: ");
         Scanner myScanner = new Scanner(System.in);
         int numInput = myScanner.nextInt();
