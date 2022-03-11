@@ -2,8 +2,6 @@ package test_06488587;
 
 /*
           #####################################################
-          #     Name: Tomas Murphy                            #
-          #     Student Number: 06488587                      #
           #     Module Name: COMP30820 Java Programming       #
           #     Date: 01/04/19                                #
           #     Question Number: 3                            #
